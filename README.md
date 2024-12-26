@@ -1,1 +1,1 @@
-# whatsapp-clone
+This project is a web-based chat application inspired by WhatsApp Web, built using React.js. It features a contact list, chat window, and message input field, with real-time message synchronization via InstantDB and offline capabilities using IndexedDB.
